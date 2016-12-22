@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/delete_customer"
+        android:title="delete"
+        app:showAsAction="ifRoom"/>
+    <group android:id="@+id/singleOnly">
+        <item android:id="@+id/edit_customer"
+            android:title="Edit"
+            app:showAsAction="ifRoom"/>
+    </group>
+</menu>

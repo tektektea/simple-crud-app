@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseDemo1</string>
+    <array name="options">
+        <item>Customers </item>
+
+    </array>
+</resources>

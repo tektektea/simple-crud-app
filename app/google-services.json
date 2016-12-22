@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "217273735294",
+    "firebase_url": "https://authtest-37418.firebaseio.com",
+    "project_id": "authtest-37418",
+    "storage_bucket": "authtest-37418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217273735294:android:4e803be1747ad116",
+        "android_client_info": {
+          "package_name": "com.hfad.databasedemo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217273735294-1qsgqm6i03gdn36ic73pcb9lqi034a3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hfad.databasedemo1",
+            "certificate_hash": "C200743C129E8C1968BA36D4628804B8D09EEE9A"
+          }
+        },
+        {
+          "client_id": "217273735294-viqia2577bjc77jpjfkn53ot6qnecopt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcMZqPLi1NibMhTDlKeRY8KfSLw4zJPLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217273735294-viqia2577bjc77jpjfkn53ot6qnecopt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
